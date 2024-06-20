@@ -1,4 +1,4 @@
-# Hi, I'm <YuraAlaverdyan1>! 👋
+# Hi, I'm Yura! 👋
 
 I am a passionate developer driven by a curiosity for technology and a love for writing code. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
