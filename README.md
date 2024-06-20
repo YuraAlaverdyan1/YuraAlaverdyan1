@@ -21,4 +21,5 @@ I am a passionate developer driven by a curiosity for technology and a love for 
 - CRM Systems, Social Media products, Route/Travel products, Business Processes Optimization
 
 
+
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
