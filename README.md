@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm <YuraAlaverdyan1>! 👋
 
-<!--
-**YuraAlaverdyan1/YuraAlaverdyan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate developer driven by a curiosity for technology and a love for writing code. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Graduated from European University of Armenia as a Computer Science major
+- Expertise in full-stack development
+- Proven Track Record of delivering scalable solutions that enhance user experience
+- Effective communicator and problem solver
+
+## Tech Stack
+
+- Database Architecture (SQL, Mongo, Maria, Dynamo, GraphQL)
+- Backend development
+- Third-party integrations
+- Frontendcomplex Functionality
+- Mobile Development
+- AWS
+- Azure
+- CRM Systems, Social Media products, Route/Travel products, Business Processes Optimization
+
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
