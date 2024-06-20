@@ -9,7 +9,7 @@ I am a passionate developer driven by a curiosity for technology and a love for 
 - Proven Track Record of delivering scalable solutions that enhance user experience
 - Effective communicator and problem solver
 
-## Tech Stack
+## 🏆 Tech Stack
 
 - Database Architecture (SQL, Mongo, Maria, Dynamo, GraphQL)
 - Backend development
