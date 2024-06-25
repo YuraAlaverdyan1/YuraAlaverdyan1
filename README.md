@@ -30,18 +30,17 @@ I am a passionate developer driven by a curiosity for technology and a love for 
 ![Azure](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=flat-square&logo=firebase&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-blue?style=flat-square&logo=supabase&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-pink?style=flat-square&logo=graphql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-lightgrey?style=flat-square&logo=linux&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-red?style=flat-square&logo=nestjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-black?style=flat-square&logo=nuxt.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=redux&logoColor=white)
-
+![GraphQL](https://img.shields.io/badge/-GraphQL-pink?style=flat-square&logo=graphql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-lightgrey?style=flat-square&logo=linux&logoColor=white)
 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
