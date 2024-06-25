@@ -22,7 +22,7 @@ I am a passionate developer driven by a curiosity for technology and a love for 
 
 ## Used Languages and Tools
 
-[![My Skills](https://skillicons.dev/iconsvscode,webstorm,html,angular,azure,css,firebase,graphql,java,js,linux,mongodb,mysql,nestjs,nextjs,nodejs,nuxtjs,react,redux,sass,supabase,tailwind,vuekotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills]([https://skillicons.dev/iconsvscode,webstorm,html,angular,azure,css,firebase,graphql,java,js,linux,mongodb,mysql,nestjs,nextjs,nodejs,nuxtjs,react,redux,sass,supabase,tailwind,vuekotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
