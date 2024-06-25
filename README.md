@@ -24,5 +24,7 @@ I am a passionate developer driven by a curiosity for technology and a love for 
 
 [![My Skills]([https://skillicons.dev/iconsvscode,webstorm,html,angular,azure,css,firebase,graphql,java,js,linux,mongodb,mysql,nestjs,nextjs,nodejs,nuxtjs,react,redux,sass,supabase,tailwind,vuekotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
