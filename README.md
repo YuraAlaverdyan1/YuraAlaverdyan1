@@ -41,6 +41,7 @@ I am a passionate developer driven by a curiosity for technology and a love for 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-pink?style=flat-square&logo=graphql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-lightgrey?style=flat-square&logo=linux&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-black?style=flat-square&logo=three.js&logoColor=white)
 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
