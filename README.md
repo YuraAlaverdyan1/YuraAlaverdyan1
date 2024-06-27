@@ -42,7 +42,25 @@ I am a passionate developer driven by a curiosity for technology and a love for 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-lightgrey?style=flat-square&logo=linux&logoColor=white)
 ![Three.js](https://img.shields.io/badge/-Three.js-black?style=flat-square&logo=three.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Three.js-black?style=flat-square&logo=three.js&logoColor=white)
+<template>
+  <div>
+    <img
+      src="https://img.shields.io/badge/-Vue.js-green?style=flat-square&logo=vue.js&logoColor=white"
+      alt="Vue.js Badge"
+      style="width: 150px; height: auto;"
+    />
+  </div>
+</template>
+
+<script>
+export default {
+  // Vue component logic can be added here if needed
+};
+</script>
+
+<style>
+/* Add any custom styles here if needed */
+</style>
 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
