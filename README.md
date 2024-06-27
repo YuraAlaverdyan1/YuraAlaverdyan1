@@ -47,7 +47,7 @@ I am a passionate developer driven by a curiosity for technology and a love for 
     <img
       src="https://img.shields.io/badge/-Vue.js-green?style=flat-square&logo=vue.js&logoColor=white"
       alt="Vue.js Badge"
-      style="width: 150px; height: auto;"
+      style="width: 100px; height: auto;"
     />
   </div>
 </template>
